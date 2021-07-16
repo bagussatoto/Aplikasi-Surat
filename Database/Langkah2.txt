@@ -1,0 +1,2 @@
+1. silahkan anda buat database baru dengan nama desa_adm
+2. Import database db_surat.sql

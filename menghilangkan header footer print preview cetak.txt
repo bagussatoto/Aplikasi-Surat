@@ -1,0 +1,5 @@
+Chrome Klik ikon Menu di pojok kanan atas browser. Klik Print. Hapus centang Headers and Footers di bawah bagian Options.
+
+Firefox Klik Firefox di pojok kiri atas browser. Tempatkan mouse Anda di atas Print, klik Page Setup. Klik tab Margins & Header / Footer. Ubah setiap nilai di bawah Headers & Footers menjadi --blank--.
+
+Internet Explorer Klik ikon Roda Gigi di pojok kanan atas browser. Arahkan mouse Anda ke Print, lalu klik Page Setup. Ubah setiap nilai di bawah Headers and Footers menjadi -Empty-.
